@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on UniekLee</title>
+    <link>https://unieklee.com/categories/technology/</link>
+    <description>Recent content in Technology on UniekLee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 18 May 2014 14:53:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://unieklee.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Travel Technology</title>
+      <link>https://unieklee.com/technology/travel-technology/</link>
+      <pubDate>Sun, 18 May 2014 14:53:31 +0000</pubDate>
+      
+      <guid>https://unieklee.com/technology/travel-technology/</guid>
+      <description>&lt;p&gt;My friends were scheduled to land at 06:35, but their flight was running about 20 minutes early. Not a problem though - my bus was due to arrive early and I was at the airport just a bit after 06:25.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Could you have the next big app?</title>
+      <link>https://unieklee.com/technology/could-you-have-the-next-big-app/</link>
+      <pubDate>Tue, 11 Feb 2014 08:54:42 +0000</pubDate>
+      
+      <guid>https://unieklee.com/technology/could-you-have-the-next-big-app/</guid>
+      <description>&lt;p&gt;Apple announced that in 2013 the App Store did over $10 billion in turnover, with over $1 billion in December 2013 alone.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
