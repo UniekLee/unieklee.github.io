@@ -2,7 +2,7 @@
 
 
 This week Yolandi and I have been getting up early to exercise - we're on the Joe Wicks 90 day plan. Or at least, she is. And I'm just following along.
-
+<!--more-->
 Monday - Wednesday this week we got up at 06:30 and exercised. After the exercise we were too hot to jump in the shower, and were trying to wait a little while after the exercise to eat breakfast. So I decided that it was a good time to spend with God. And so I did.
 
 The time with God was amazing. I'm reading the book of Romans and he gave me some incredible revelations, and helped me feel so incredibly loved.
